@@ -1,3 +1,3 @@
-# test#
+# test
 
-Pokusaj
+Github za zagriajavanje i obucavanje!
